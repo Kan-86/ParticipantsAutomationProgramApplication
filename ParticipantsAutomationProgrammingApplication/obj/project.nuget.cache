@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YmyaNIC9wPTICy91jXakGTFPK08vsJtwcXDTN4CzcbJpOuudpqN6yZXx9cnGCnzdC+gvLK16wfl6hXxbXg6F1A==",
+  "success": true,
+  "projectFilePath": "C:\\exc\\ParticipantsAutomationProgrammingApplication\\ParticipantsAutomationProgrammingApplication\\ParticipantsAutomationProgrammingApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ander\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
+    "C:\\Users\\ander\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\ander\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
